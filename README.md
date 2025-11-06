@@ -21,5 +21,5 @@ See `/notebooks` for interactive exploration and `/src` for reusable modules (da
 ## Quick start (local)
 1. Clone repo:
    ```bash
-   git clone https://github.com/<your-username>/seq-deep-learning-showcase.git
+   git clone https://github.com/Shree-2516/seq-deep-learning-showcase.git
    cd seq-deep-learning-showcase
