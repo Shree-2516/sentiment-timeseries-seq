@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow      # or "torch" depending on your implementation
+keras           # if using standalone keras (often included with tensorflow)
+jupyter
+notebook
+tqdm
